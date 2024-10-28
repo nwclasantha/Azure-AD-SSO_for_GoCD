@@ -2,6 +2,8 @@
 
 ### Introduction
 
+![7ENZ3NKHDz2btdpdrvoK5K](https://github.com/user-attachments/assets/e2c182b1-fcae-4a35-8913-76a34b2bf586)
+
 In modern software development environments, security, efficiency, and ease of access are paramount. As organizations adopt continuous delivery practices, they often use tools like **GoCD** to streamline the deployment process. To enhance security and simplify the user experience, integrating **Azure Active Directory (Azure AD) Single Sign-On (SSO)** with GoCD allows users to authenticate through a centralized, secure Azure AD system. With this integration, users gain seamless access to GoCD using their Azure AD credentials, and administrators can manage user roles and permissions directly within Azure AD.
 
 Implementing Azure AD SSO for GoCD reduces the burden of managing separate user credentials, centralizes identity management, and aligns with best practices in secure application development.
