@@ -1,5 +1,3 @@
-Here's an outline that includes **Introduction**, **Objectives**, **Security Requirements**, and **Conclusion** for setting up **Azure AD Single Sign-On (SSO) for GoCD**:
-
 ---
 
 ### Introduction
